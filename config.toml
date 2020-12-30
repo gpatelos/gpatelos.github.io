@@ -1,0 +1,46 @@
+baseurl                  = "https://gregpatselas.com"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "gregpatselas.com"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "abasin_logo_1.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "gregpatselas.com"
+
+# Metadata for Open Graph and Twitter
+    description          = "greg patselas art."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "gpatelos"
+    # rss                = ""
+
+[[params.mainMenu]]
+    link = "drawings"
+    text = "drawings"
+
+
+[[params.mainMenu]]
+    link = "florissant"
+    text = '"Florissant Colorado," a series'
+
+[[params.mainMenu]]
+    link = "hill"
+    text = '"hill", a series'
+    
+[[params.mainMenu]]
+    link = "low"
+    text = '"the low country," a series'
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about greg patselas art"
+
+[imaging]
+    quality = 75
