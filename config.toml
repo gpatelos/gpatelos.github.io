@@ -22,22 +22,22 @@ publishDir               = "docs"
     title                = "gpatelos"
     # rss                = ""
 
-[[params.mainMenu]]
-    link = "drawings"
-    text = "drawings"
-
-
-[[params.mainMenu]]
-    link = "florissant"
-    text = '"Florissant Colorado," a series'
-
-[[params.mainMenu]]
-    link = "hill"
-    text = '"hill", a series'
     
 [[params.mainMenu]]
     link = "low"
     text = '"the low country," a series'
+
+[[params.mainMenu]]
+    link = "hill"
+    text = '"hill", a series'
+
+[[params.mainMenu]]
+    link = "drawings"
+    text = "drawings"
+
+[[params.mainMenu]]
+    link = "florissant"
+    text = '"Florissant Colorado," a series'
 
 [[params.mainMenu]]
     link = "about"
