@@ -6,6 +6,7 @@ title                    = "gregpatselas.com"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
+publishDir               = "docs"
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
