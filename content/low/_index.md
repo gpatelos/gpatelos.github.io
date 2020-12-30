@@ -7,4 +7,5 @@ clickablePhotos: true
 ---
 
 From the tidal marshes of Georgia. Time well spent in Savannah, St Simons and nearby.
-(prices available upon request)
+
+[(prices available upon request)](mailto:greg.patselas@gmail.com)
