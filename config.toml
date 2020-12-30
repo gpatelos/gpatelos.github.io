@@ -25,11 +25,11 @@ publishDir               = "docs"
     
 [[params.mainMenu]]
     link = "low"
-    text = '"the low country," a series'
+    text = '"low country"'
 
 [[params.mainMenu]]
     link = "hill"
-    text = '"hill", a series'
+    text = '"hill"'
 
 [[params.mainMenu]]
     link = "drawings"
@@ -37,11 +37,11 @@ publishDir               = "docs"
 
 [[params.mainMenu]]
     link = "florissant"
-    text = '"Florissant Colorado," a series'
+    text = '"Florissant, CO"'
 
 [[params.mainMenu]]
     link = "about"
-    text = "about greg patselas art"
+    text = "about greg"
 
 [imaging]
     quality = 75

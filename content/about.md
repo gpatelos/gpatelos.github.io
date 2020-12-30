@@ -11,3 +11,14 @@ I put great weight and creative energy in designing and tweaking environments an
 
 This is my work.
 
+(prices available upon request)
+
+<greg.patselas@gmail.com>
+
+ [linkedin](https://www.linkedin.com/in/gregpatselas/)
+ 
+ [twitter](https://twitter.com/gpatelos)
+ 
+ [instagram (deprecated)](https://www.instagram.com/gpatelos/)
+ 
+
