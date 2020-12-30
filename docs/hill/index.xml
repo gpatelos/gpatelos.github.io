@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hill, a series on gregpatselas.com</title>
-    <link>https://gpatelos.github.io/hill/</link>
+    <link>http://gpatelos.github.io/hill/</link>
     <description>Recent content in hill, a series on gregpatselas.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gpatelos.github.io/hill/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://gpatelos.github.io/hill/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
