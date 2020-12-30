@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florissant CO, a series on gregpatselas.com</title>
-    <link>http://gpatelos.github.io/florissant/</link>
+    <link>https://gpatelos.github.io/florissant/</link>
     <description>Recent content in Florissant CO, a series on gregpatselas.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://gpatelos.github.io/florissant/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gpatelos.github.io/florissant/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

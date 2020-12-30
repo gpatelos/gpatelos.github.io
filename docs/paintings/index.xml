@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paintings on gregpatselas.com</title>
-    <link>http://gpatelos.github.io/paintings/</link>
+    <link>https://gpatelos.github.io/paintings/</link>
     <description>Recent content in paintings on gregpatselas.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://gpatelos.github.io/paintings/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gpatelos.github.io/paintings/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

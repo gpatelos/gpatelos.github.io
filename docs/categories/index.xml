@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on gregpatselas.com</title>
-    <link>http://gpatelos.github.io/categories/</link>
+    <link>https://gpatelos.github.io/categories/</link>
     <description>Recent content in Categories on gregpatselas.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://gpatelos.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gpatelos.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
