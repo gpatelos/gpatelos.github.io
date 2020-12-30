@@ -1,4 +1,4 @@
-baseurl                  = "http://gpatelos.github.io"           # Your domain name
+baseurl                  = "https://gpatelos.github.io"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -21,10 +21,6 @@ publishDir               = "docs"
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "gpatelos"
     # rss                = ""
-    
-[[params.mainMenu]]
-    link = "low"
-    text = '"the low country," a series'
 
 [[params.mainMenu]]
     link = "drawings"
@@ -38,6 +34,10 @@ publishDir               = "docs"
 [[params.mainMenu]]
     link = "hill"
     text = '"hill", a series'
+    
+[[params.mainMenu]]
+    link = "low"
+    text = '"the low country," a series'
 
 [[params.mainMenu]]
     link = "about"
